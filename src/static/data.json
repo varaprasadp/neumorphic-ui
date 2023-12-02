@@ -1,0 +1,122 @@
+[{
+      "bookID": 0,
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "price": 600,
+      "rating": 5,
+      "reviewCount": 100,
+      "paperBack": "yes",
+      "languageCode": "en"
+},
+    {
+      "bookID": 1,
+      "title": "Harry Porter",
+      "author": "spiderman",
+      "price": 20,
+      "rating": 4,
+      "reviewCount": 10,
+      "paperBack": "yes",
+      "languageCode": "en"
+    },
+    {
+      "bookID": 2,
+      "title": "Spiderman",
+      "author": "spiderman",
+      "price": 20,
+      "rating": 4,
+      "reviewCount": 10,
+      "paperBack": "yes",
+      "languageCode": "en"
+    },
+    {
+      "bookID": 3,
+      "title": "Iron Man",
+      "author": "spiderman",
+      "price": 20,
+      "rating": 4,
+      "reviewCount": 10,
+      "paperBack": "yes",
+      "languageCode": "en"
+    },
+    {
+      "bookID": 4,
+      "title": "Bat man",
+      "author": "spiderman",
+      "price": 20,
+      "rating": 4,
+      "reviewCount": 10,
+      "paperBack": "yes",
+      "languageCode": "en"
+    },
+    {
+      "bookID": 5,
+      "title": "Mr. Bean",
+      "author": "spiderman",
+      "price": 20,
+      "rating": 4,
+      "reviewCount": 10,
+      "paperBack": "yes",
+      "languageCode": "en"
+    },
+    {
+      "bookID": 6,
+      "title": "yiski",
+      "author": "spiderman",
+      "price": 20,
+      "rating": 1,
+      "reviewCount": 1,
+      "paperBack": "yes",
+      "languageCode": "en"
+},
+    {
+      "bookID": 7,
+      "title": "Harry Porter",
+      "author": "spiderman",
+      "price": 20,
+      "rating": 4,
+      "reviewCount": 10,
+      "paperBack": "yes",
+      "languageCode": "en"
+    },
+    {
+      "bookID": 8,
+      "title": "Spiderman",
+      "author": "spiderman",
+      "price": 20,
+      "rating": 4,
+      "reviewCount": 10,
+      "paperBack": "yes",
+      "languageCode": "en"
+    },
+    {
+      "bookID": 9,
+      "title": "Iron Man",
+      "author": "spiderman",
+      "price": 20,
+      "rating": 4,
+      "reviewCount": 10,
+      "paperBack": "yes",
+      "languageCode": "en"
+    },
+    {
+      "bookID": 10,
+      "title": "Bat man",
+      "author": "spiderman",
+      "price": 20,
+      "rating": 4,
+      "reviewCount": 10,
+      "paperBack": "yes",
+      "languageCode": "en"
+    },
+    {
+      "bookID": 11,
+      "title": "Mr. Been",
+      "author": "spiderman",
+      "price": 20,
+      "rating": 4,
+      "reviewCount": 10,
+      "paperBack": "yes",
+      "languageCode": "en"
+    }
+
+  ]
